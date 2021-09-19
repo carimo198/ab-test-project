@@ -1,5 +1,6 @@
 # ab-test-project
 WNW streaming A/B testing project from my Applied Analytics subject at university. <br />
+The final report can be viewed via https://carimo198.github.io/ab-test-project/ <br />
 
 ## Background
 WNW is a streaming company which is refining their recommendation engine to provide better recommendation to customers. <br />
